@@ -1,0 +1,4 @@
+C:\Users\brad\Documents\Visual Studio 2015\Projects\WinFormTetris\TetrisLibrary\bin\Debug\TetrisLibrary.dll
+C:\Users\brad\Documents\Visual Studio 2015\Projects\WinFormTetris\TetrisLibrary\bin\Debug\TetrisLibrary.pdb
+C:\Users\brad\Documents\Visual Studio 2015\Projects\WinFormTetris\TetrisLibrary\obj\Debug\TetrisLibrary.dll
+C:\Users\brad\Documents\Visual Studio 2015\Projects\WinFormTetris\TetrisLibrary\obj\Debug\TetrisLibrary.pdb

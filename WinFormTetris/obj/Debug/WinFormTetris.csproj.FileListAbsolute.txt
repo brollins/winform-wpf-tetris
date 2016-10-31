@@ -1,0 +1,11 @@
+c:\users\brad\documents\visual studio 2015\Projects\WinFormTetris\WinFormTetris\bin\Debug\WinFormTetris.exe.config
+c:\users\brad\documents\visual studio 2015\Projects\WinFormTetris\WinFormTetris\bin\Debug\WinFormTetris.exe
+c:\users\brad\documents\visual studio 2015\Projects\WinFormTetris\WinFormTetris\bin\Debug\WinFormTetris.pdb
+c:\users\brad\documents\visual studio 2015\Projects\WinFormTetris\WinFormTetris\obj\Debug\WinFormTetris.csprojResolveAssemblyReference.cache
+c:\users\brad\documents\visual studio 2015\Projects\WinFormTetris\WinFormTetris\obj\Debug\WinFormTetris.Properties.Resources.resources
+c:\users\brad\documents\visual studio 2015\Projects\WinFormTetris\WinFormTetris\obj\Debug\WinFormTetris.csproj.GenerateResource.Cache
+c:\users\brad\documents\visual studio 2015\Projects\WinFormTetris\WinFormTetris\obj\Debug\WinFormTetris.exe
+c:\users\brad\documents\visual studio 2015\Projects\WinFormTetris\WinFormTetris\obj\Debug\WinFormTetris.pdb
+C:\Users\brad\Documents\Visual Studio 2015\Projects\WinFormTetris\WinFormTetris\obj\Debug\WinFormTetris.Form1.resources
+C:\Users\brad\Documents\Visual Studio 2015\Projects\WinFormTetris\WinFormTetris\bin\Debug\TetrisLibrary.dll
+C:\Users\brad\Documents\Visual Studio 2015\Projects\WinFormTetris\WinFormTetris\bin\Debug\TetrisLibrary.pdb

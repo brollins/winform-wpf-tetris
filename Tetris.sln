@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormTetris", "WinFormTetris\WinFormTetris.csproj", "{5E50EF35-B67B-4F5C-857C-EC8ED33DBCD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TetrisLibrary", "TetrisLibrary\TetrisLibrary.csproj", "{F35D35A3-80C4-486D-9EC2-205671CBB908}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfTetris", "WpfTetris\WpfTetris.csproj", "{D81E9F52-9BC8-42CE-B207-75895A481B39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E50EF35-B67B-4F5C-857C-EC8ED33DBCD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E50EF35-B67B-4F5C-857C-EC8ED33DBCD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E50EF35-B67B-4F5C-857C-EC8ED33DBCD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E50EF35-B67B-4F5C-857C-EC8ED33DBCD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F35D35A3-80C4-486D-9EC2-205671CBB908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35D35A3-80C4-486D-9EC2-205671CBB908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35D35A3-80C4-486D-9EC2-205671CBB908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35D35A3-80C4-486D-9EC2-205671CBB908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D81E9F52-9BC8-42CE-B207-75895A481B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81E9F52-9BC8-42CE-B207-75895A481B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81E9F52-9BC8-42CE-B207-75895A481B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81E9F52-9BC8-42CE-B207-75895A481B39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

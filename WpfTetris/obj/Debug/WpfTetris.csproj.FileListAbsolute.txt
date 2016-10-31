@@ -1,0 +1,16 @@
+C:\Users\brad\Documents\Visual Studio 2015\Projects\WinFormTetris\WpfTetris\bin\Debug\WpfTetris.exe.config
+C:\Users\brad\Documents\Visual Studio 2015\Projects\WinFormTetris\WpfTetris\obj\Debug\WpfTetris.csprojResolveAssemblyReference.cache
+C:\Users\brad\Documents\Visual Studio 2015\Projects\WinFormTetris\WpfTetris\obj\Debug\MainWindow.g.cs
+C:\Users\brad\Documents\Visual Studio 2015\Projects\WinFormTetris\WpfTetris\obj\Debug\App.g.cs
+C:\Users\brad\Documents\Visual Studio 2015\Projects\WinFormTetris\WpfTetris\obj\Debug\WpfTetris_MarkupCompile.cache
+C:\Users\brad\Documents\Visual Studio 2015\Projects\WinFormTetris\WpfTetris\obj\Debug\WpfTetris_MarkupCompile.lref
+C:\Users\brad\Documents\Visual Studio 2015\Projects\WinFormTetris\WpfTetris\bin\Debug\WpfTetris.exe
+C:\Users\brad\Documents\Visual Studio 2015\Projects\WinFormTetris\WpfTetris\bin\Debug\WpfTetris.pdb
+C:\Users\brad\Documents\Visual Studio 2015\Projects\WinFormTetris\WpfTetris\bin\Debug\TetrisLibrary.dll
+C:\Users\brad\Documents\Visual Studio 2015\Projects\WinFormTetris\WpfTetris\bin\Debug\TetrisLibrary.pdb
+C:\Users\brad\Documents\Visual Studio 2015\Projects\WinFormTetris\WpfTetris\obj\Debug\MainWindow.baml
+C:\Users\brad\Documents\Visual Studio 2015\Projects\WinFormTetris\WpfTetris\obj\Debug\WpfTetris.g.resources
+C:\Users\brad\Documents\Visual Studio 2015\Projects\WinFormTetris\WpfTetris\obj\Debug\WpfTetris.Properties.Resources.resources
+C:\Users\brad\Documents\Visual Studio 2015\Projects\WinFormTetris\WpfTetris\obj\Debug\WpfTetris.csproj.GenerateResource.Cache
+C:\Users\brad\Documents\Visual Studio 2015\Projects\WinFormTetris\WpfTetris\obj\Debug\WpfTetris.exe
+C:\Users\brad\Documents\Visual Studio 2015\Projects\WinFormTetris\WpfTetris\obj\Debug\WpfTetris.pdb
